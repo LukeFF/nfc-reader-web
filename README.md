@@ -1,4 +1,4 @@
-nfc-reader-sap
+NFC Reader SAP WebService
 ==============
 
-aNFC Reader SAP WebService
+A NFC Reader that sends data to a SAP WebService
