@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<nfctag type="Type2Tag">
+  <uid>04246d415b2380</uid>
+  <atq>17408</atq>
+  <sak>0</sak>
+  <timestamp>2015-01-09 09:50:08.740137</timestamp>
+  <reader>raspberrypi</reader>
+  <ndef>
+    <version>1.1</version>
+    <readable>True</readable>
+    <writeable>True</writeable>
+    <capacity>46</capacity>
+    <length>29</length>
+    <message>d101195402656e74657374206d696661726520756c7472616c69676874</message>
+  </ndef>
+</nfctag>
